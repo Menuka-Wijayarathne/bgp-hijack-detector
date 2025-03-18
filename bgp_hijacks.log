@@ -1,0 +1,1119 @@
+2025-03-18 02:43:48,829 - 📊 Queue Size: 0
+2025-03-18 02:43:58,839 - 📊 Queue Size: 0
+2025-03-18 02:43:59,404 - ❌ Unexpected error in listen(): '179.109.163.0/24'
+2025-03-18 02:44:08,844 - 📊 Queue Size: 0
+2025-03-18 02:44:14,882 - ❌ Unexpected error in listen(): '179.106.155.0/24'
+2025-03-18 02:44:18,848 - 📊 Queue Size: 0
+2025-03-18 02:44:28,857 - 📊 Queue Size: 0
+2025-03-18 02:44:30,376 - ❌ Unexpected error in listen(): '2407:6f80::/33'
+2025-03-18 02:44:38,861 - 📊 Queue Size: 0
+2025-03-18 02:44:45,901 - ❌ Unexpected error in listen(): '2804:1070::/32'
+2025-03-18 02:44:48,866 - 📊 Queue Size: 0
+2025-03-18 02:44:58,874 - 📊 Queue Size: 0
+2025-03-18 02:45:01,318 - ❌ Unexpected error in listen(): '179.106.155.0/24'
+2025-03-18 02:45:08,878 - 📊 Queue Size: 0
+2025-03-18 02:45:16,742 - ❌ Unexpected error in listen(): '2a0c:2600::/29'
+2025-03-18 02:45:18,881 - 📊 Queue Size: 0
+2025-03-18 02:45:28,889 - 📊 Queue Size: 0
+2025-03-18 02:45:32,198 - ❌ Unexpected error in listen(): '2001:548::/32'
+2025-03-18 03:33:51,625 - 📊 Queue Size: 0
+2025-03-18 03:34:01,626 - 📊 Queue Size: 0
+2025-03-18 03:34:11,627 - 📊 Queue Size: 0
+2025-03-18 03:34:21,628 - 📊 Queue Size: 0
+2025-03-18 03:34:31,629 - 📊 Queue Size: 0
+2025-03-18 03:34:41,630 - 📊 Queue Size: 0
+2025-03-18 03:34:51,631 - 📊 Queue Size: 0
+2025-03-18 03:35:01,632 - 📊 Queue Size: 0
+2025-03-18 03:35:11,633 - 📊 Queue Size: 0
+2025-03-18 03:35:21,635 - 📊 Queue Size: 0
+2025-03-18 03:35:31,641 - 📊 Queue Size: 0
+2025-03-18 03:35:41,655 - 📊 Queue Size: 0
+2025-03-18 03:35:51,655 - 📊 Queue Size: 0
+2025-03-18 03:36:01,663 - 📊 Queue Size: 0
+2025-03-18 03:36:11,664 - 📊 Queue Size: 0
+2025-03-18 03:36:21,670 - 📊 Queue Size: 0
+2025-03-18 03:36:31,672 - 📊 Queue Size: 0
+2025-03-18 03:36:41,673 - 📊 Queue Size: 0
+2025-03-18 03:36:51,676 - 📊 Queue Size: 0
+2025-03-18 03:37:01,681 - 📊 Queue Size: 0
+2025-03-18 03:37:11,692 - 📊 Queue Size: 0
+2025-03-18 03:37:21,694 - 📊 Queue Size: 0
+2025-03-18 03:37:31,696 - 📊 Queue Size: 0
+2025-03-18 03:37:41,697 - 📊 Queue Size: 0
+2025-03-18 03:37:51,702 - 📊 Queue Size: 0
+2025-03-18 03:38:01,703 - 📊 Queue Size: 0
+2025-03-18 03:38:11,704 - 📊 Queue Size: 0
+2025-03-18 03:38:21,706 - 📊 Queue Size: 0
+2025-03-18 03:38:31,707 - 📊 Queue Size: 0
+2025-03-18 03:38:41,708 - 📊 Queue Size: 0
+2025-03-18 03:38:51,710 - 📊 Queue Size: 0
+2025-03-18 03:39:01,715 - 📊 Queue Size: 0
+2025-03-18 03:39:11,716 - 📊 Queue Size: 0
+2025-03-18 03:39:21,716 - 📊 Queue Size: 0
+2025-03-18 03:39:31,718 - 📊 Queue Size: 0
+2025-03-18 03:39:41,720 - 📊 Queue Size: 0
+2025-03-18 03:43:28,735 - 📊 Queue Size: 0
+2025-03-18 03:43:30,561 - 🚨 BGP HIJACK ALERT! Prefix: 87.230.113.0/24 Expected ASN: 20738, but got: 20773
+2025-03-18 03:43:30,682 - ✅ Alert sent to Better Stack for prefix 87.230.113.0/24
+2025-03-18 03:45:44,059 - ❌ Email alert failed: [Errno 110] Connection timed out
+2025-03-18 03:45:44,088 - 📊 Queue Size: 0
+2025-03-18 03:45:44,139 - 🔄 WebSocket disconnected: no close frame received or sent. Reconnecting in 5 seconds...
+2025-03-18 03:45:54,089 - 📊 Queue Size: 0
+2025-03-18 03:46:04,095 - 📊 Queue Size: 0
+2025-03-18 03:46:14,099 - 📊 Queue Size: 0
+2025-03-18 03:46:24,100 - 📊 Queue Size: 0
+2025-03-18 03:46:34,101 - 📊 Queue Size: 0
+2025-03-18 03:46:44,102 - 📊 Queue Size: 0
+2025-03-18 03:46:54,108 - 📊 Queue Size: 0
+2025-03-18 03:47:04,109 - 📊 Queue Size: 0
+2025-03-18 03:47:14,110 - 📊 Queue Size: 0
+2025-03-18 03:47:23,737 - 🚨 BGP HIJACK ALERT! Prefix: 94.136.40.0/24 Expected ASN: 20738, but got: 20773
+2025-03-18 03:47:23,884 - ✅ Alert sent to Better Stack for prefix 94.136.40.0/24
+2025-03-18 03:49:37,531 - ❌ Email alert failed: [Errno 110] Connection timed out
+2025-03-18 03:49:37,586 - 📊 Queue Size: 0
+2025-03-18 03:49:37,663 - 🔄 WebSocket disconnected: no close frame received or sent. Reconnecting in 5 seconds...
+2025-03-18 03:49:47,587 - 📊 Queue Size: 0
+2025-03-18 03:49:57,589 - 📊 Queue Size: 0
+2025-03-18 03:50:07,589 - 📊 Queue Size: 0
+2025-03-18 03:50:17,591 - 📊 Queue Size: 0
+2025-03-18 03:50:26,918 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 03:50:27,292 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 03:52:41,851 - ❌ Email alert failed: [Errno 110] Connection timed out
+2025-03-18 03:52:41,879 - 📊 Queue Size: 0
+2025-03-18 03:52:41,939 - 🔄 WebSocket disconnected: no close frame received or sent. Reconnecting in 5 seconds...
+2025-03-18 03:52:51,880 - 📊 Queue Size: 0
+2025-03-18 03:53:01,880 - 📊 Queue Size: 0
+2025-03-18 03:53:11,882 - 📊 Queue Size: 0
+2025-03-18 03:53:21,883 - 📊 Queue Size: 0
+2025-03-18 03:53:31,884 - 📊 Queue Size: 0
+2025-03-18 03:53:41,885 - 📊 Queue Size: 0
+2025-03-18 03:53:51,887 - 📊 Queue Size: 0
+2025-03-18 03:54:01,890 - 📊 Queue Size: 0
+2025-03-18 03:54:11,891 - 📊 Queue Size: 0
+2025-03-18 03:54:21,896 - 📊 Queue Size: 0
+2025-03-18 03:54:31,896 - 📊 Queue Size: 0
+2025-03-18 03:54:41,897 - 📊 Queue Size: 0
+2025-03-18 03:54:51,898 - 📊 Queue Size: 0
+2025-03-18 03:55:01,899 - 📊 Queue Size: 0
+2025-03-18 03:55:11,900 - 📊 Queue Size: 0
+2025-03-18 03:55:21,901 - 📊 Queue Size: 0
+2025-03-18 03:55:31,902 - 📊 Queue Size: 0
+2025-03-18 03:55:41,903 - 📊 Queue Size: 0
+2025-03-18 03:55:47,408 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 03:55:47,525 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 03:58:01,339 - ❌ Email alert failed: [Errno 110] Connection timed out
+2025-03-18 03:58:01,364 - 📊 Queue Size: 0
+2025-03-18 03:58:01,437 - 🔄 WebSocket disconnected: no close frame received or sent. Reconnecting in 5 seconds...
+2025-03-18 03:58:11,365 - 📊 Queue Size: 0
+2025-03-18 03:58:21,366 - 📊 Queue Size: 0
+2025-03-18 03:58:31,368 - 📊 Queue Size: 0
+2025-03-18 03:58:41,369 - 📊 Queue Size: 0
+2025-03-18 03:58:51,371 - 📊 Queue Size: 0
+2025-03-18 03:59:01,380 - 📊 Queue Size: 0
+2025-03-18 03:59:11,381 - 📊 Queue Size: 0
+2025-03-18 03:59:21,383 - 📊 Queue Size: 0
+2025-03-18 03:59:31,384 - 📊 Queue Size: 0
+2025-03-18 03:59:41,385 - 📊 Queue Size: 0
+2025-03-18 03:59:51,396 - 📊 Queue Size: 0
+2025-03-18 04:00:01,398 - 📊 Queue Size: 0
+2025-03-18 04:00:11,398 - 📊 Queue Size: 0
+2025-03-18 04:00:21,410 - 📊 Queue Size: 0
+2025-03-18 04:00:31,427 - 📊 Queue Size: 0
+2025-03-18 04:00:41,440 - 📊 Queue Size: 0
+2025-03-18 04:00:51,444 - 📊 Queue Size: 0
+2025-03-18 04:01:01,446 - 📊 Queue Size: 0
+2025-03-18 04:01:11,447 - 📊 Queue Size: 0
+2025-03-18 04:01:21,449 - 📊 Queue Size: 0
+2025-03-18 04:01:28,359 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:01:28,776 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:03:41,307 - ❌ Email alert failed: [Errno 110] Connection timed out
+2025-03-18 04:03:41,357 - 📊 Queue Size: 0
+2025-03-18 04:03:41,430 - 🔄 WebSocket disconnected: no close frame received or sent. Reconnecting in 5 seconds...
+2025-03-18 04:03:47,747 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:03:47,873 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:06:00,571 - ❌ Email alert failed: [Errno 110] Connection timed out
+2025-03-18 04:06:00,622 - 📊 Queue Size: 0
+2025-03-18 04:06:00,670 - 🔄 WebSocket disconnected: no close frame received or sent. Reconnecting in 5 seconds...
+2025-03-18 04:06:06,082 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:06:06,241 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:08:19,835 - ❌ Email alert failed: [Errno 110] Connection timed out
+2025-03-18 04:08:19,863 - 📊 Queue Size: 0
+2025-03-18 04:08:19,904 - 🔄 WebSocket disconnected: no close frame received or sent. Reconnecting in 5 seconds...
+2025-03-18 04:08:29,864 - 📊 Queue Size: 0
+2025-03-18 04:08:39,865 - 📊 Queue Size: 0
+2025-03-18 04:08:49,866 - 📊 Queue Size: 0
+2025-03-18 04:08:59,867 - 📊 Queue Size: 0
+2025-03-18 04:09:07,522 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:09:07,894 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:11:24,155 - ❌ Email alert failed: [Errno 110] Connection timed out
+2025-03-18 04:11:24,209 - 📊 Queue Size: 0
+2025-03-18 04:11:24,249 - 🔄 WebSocket disconnected: no close frame received or sent. Reconnecting in 5 seconds...
+2025-03-18 04:11:34,214 - 📊 Queue Size: 0
+2025-03-18 04:11:44,215 - 📊 Queue Size: 0
+2025-03-18 04:11:54,217 - 📊 Queue Size: 0
+2025-03-18 04:12:04,218 - 📊 Queue Size: 0
+2025-03-18 04:12:08,578 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:12:08,981 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:14:24,379 - ❌ Email alert failed: [Errno 110] Connection timed out
+2025-03-18 04:14:24,408 - 📊 Queue Size: 0
+2025-03-18 04:14:24,480 - 🔄 WebSocket disconnected: no close frame received or sent. Reconnecting in 5 seconds...
+2025-03-18 04:14:34,409 - 📊 Queue Size: 0
+2025-03-18 04:14:44,410 - 📊 Queue Size: 0
+2025-03-18 04:14:54,411 - 📊 Queue Size: 0
+2025-03-18 04:15:04,420 - 📊 Queue Size: 0
+2025-03-18 04:15:14,421 - 📊 Queue Size: 0
+2025-03-18 04:15:24,422 - 📊 Queue Size: 0
+2025-03-18 04:15:31,320 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:15:31,436 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:17:45,083 - ❌ Email alert failed: [Errno 110] Connection timed out
+2025-03-18 04:17:45,111 - 📊 Queue Size: 0
+2025-03-18 04:17:45,169 - 🔄 WebSocket disconnected: no close frame received or sent. Reconnecting in 5 seconds...
+2025-03-18 04:17:55,115 - 📊 Queue Size: 0
+2025-03-18 04:18:05,117 - 📊 Queue Size: 0
+2025-03-18 04:18:15,130 - 📊 Queue Size: 0
+2025-03-18 04:18:25,132 - 📊 Queue Size: 0
+2025-03-18 04:18:35,133 - 📊 Queue Size: 0
+2025-03-18 04:18:45,136 - 📊 Queue Size: 0
+2025-03-18 04:18:55,137 - 📊 Queue Size: 0
+2025-03-18 04:19:05,138 - 📊 Queue Size: 0
+2025-03-18 04:19:15,139 - 📊 Queue Size: 0
+2025-03-18 04:19:25,142 - 📊 Queue Size: 0
+2025-03-18 04:19:35,145 - 📊 Queue Size: 0
+2025-03-18 04:19:45,146 - 📊 Queue Size: 0
+2025-03-18 04:19:55,147 - 📊 Queue Size: 0
+2025-03-18 04:20:05,147 - 📊 Queue Size: 0
+2025-03-18 04:20:15,152 - 📊 Queue Size: 0
+2025-03-18 04:20:25,161 - 📊 Queue Size: 0
+2025-03-18 04:20:35,162 - 📊 Queue Size: 0
+2025-03-18 04:20:45,172 - 📊 Queue Size: 0
+2025-03-18 04:20:55,173 - 📊 Queue Size: 0
+2025-03-18 04:21:05,174 - 📊 Queue Size: 0
+2025-03-18 04:21:15,175 - 📊 Queue Size: 0
+2025-03-18 04:21:25,177 - 📊 Queue Size: 0
+2025-03-18 04:21:35,180 - 📊 Queue Size: 0
+2025-03-18 04:21:45,190 - 📊 Queue Size: 0
+2025-03-18 04:21:55,191 - 📊 Queue Size: 0
+2025-03-18 04:22:05,192 - 📊 Queue Size: 0
+2025-03-18 04:22:15,194 - 📊 Queue Size: 0
+2025-03-18 04:22:25,195 - 📊 Queue Size: 0
+2025-03-18 04:22:35,196 - 📊 Queue Size: 0
+2025-03-18 04:22:45,197 - 📊 Queue Size: 0
+2025-03-18 04:22:55,198 - 📊 Queue Size: 0
+2025-03-18 04:23:05,199 - 📊 Queue Size: 0
+2025-03-18 04:23:15,209 - 📊 Queue Size: 0
+2025-03-18 04:23:20,579 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:23:20,953 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:25:36,123 - ❌ Email alert failed: [Errno 110] Connection timed out
+2025-03-18 04:25:36,124 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:25:36,244 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:27:51,291 - ❌ Email alert failed: [Errno 110] Connection timed out
+2025-03-18 04:27:51,292 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:27:51,659 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:30:06,459 - ❌ Email alert failed: [Errno 110] Connection timed out
+2025-03-18 04:30:06,484 - 📊 Queue Size: 4
+2025-03-18 04:30:06,492 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:30:06,862 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:32:21,627 - ❌ Email alert failed: [Errno 110] Connection timed out
+2025-03-18 04:32:21,628 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:32:21,747 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:34:36,795 - ❌ Email alert failed: [Errno 110] Connection timed out
+2025-03-18 04:34:36,796 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:34:37,163 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:36:51,963 - ❌ Email alert failed: [Errno 110] Connection timed out
+2025-03-18 04:36:51,964 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:36:52,081 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:39:07,131 - ❌ Email alert failed: [Errno 110] Connection timed out
+2025-03-18 04:39:07,156 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:39:07,274 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:41:22,299 - ❌ Email alert failed: [Errno 110] Connection timed out
+2025-03-18 04:41:22,300 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:41:22,669 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:43:37,467 - ❌ Email alert failed: [Errno 110] Connection timed out
+2025-03-18 04:43:37,468 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:43:37,587 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:43:37,625 - ❌ Email alert failed: (535, b'Incorrect authentication data')
+2025-03-18 04:43:37,625 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:43:37,739 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:43:45,773 - ❌ Email alert failed: (535, b'Incorrect authentication data')
+2025-03-18 04:43:45,798 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:43:45,914 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:43:45,940 - ❌ Email alert failed: (535, b'Incorrect authentication data')
+2025-03-18 04:43:45,940 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:43:46,160 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:43:46,191 - ❌ Email alert failed: (535, b'Incorrect authentication data')
+2025-03-18 04:43:46,191 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:43:46,296 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:43:46,320 - ❌ Email alert failed: (535, b'Incorrect authentication data')
+2025-03-18 04:43:46,321 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:43:46,436 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:43:46,460 - ❌ Email alert failed: (535, b'Incorrect authentication data')
+2025-03-18 04:43:46,460 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:43:46,575 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:43:46,599 - ❌ Email alert failed: (535, b'Incorrect authentication data')
+2025-03-18 04:43:46,616 - 📊 Queue Size: 7
+2025-03-18 04:43:46,616 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:43:46,777 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:43:46,803 - ❌ Email alert failed: (535, b'Incorrect authentication data')
+2025-03-18 04:43:46,803 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:43:46,927 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:43:46,951 - ❌ Email alert failed: (535, b'Incorrect authentication data')
+2025-03-18 04:43:46,951 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:43:47,063 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:43:47,088 - ❌ Email alert failed: (535, b'Incorrect authentication data')
+2025-03-18 04:43:47,089 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:43:47,201 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:43:47,226 - ❌ Email alert failed: (535, b'Incorrect authentication data')
+2025-03-18 04:43:47,226 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:43:47,337 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:43:47,361 - ❌ Email alert failed: (535, b'Incorrect authentication data')
+2025-03-18 04:43:47,362 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:43:47,471 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:43:47,495 - ❌ Email alert failed: (535, b'Incorrect authentication data')
+2025-03-18 04:43:47,496 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:43:47,607 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:43:47,632 - ❌ Email alert failed: (535, b'Incorrect authentication data')
+2025-03-18 04:43:47,633 - 🔄 WebSocket disconnected: sent 1011 (internal error) keepalive ping timeout; no close frame received. Reconnecting in 5 seconds...
+2025-03-18 04:43:56,617 - 📊 Queue Size: 0
+2025-03-18 04:44:06,618 - 📊 Queue Size: 0
+2025-03-18 04:44:16,620 - 📊 Queue Size: 0
+2025-03-18 04:44:26,621 - 📊 Queue Size: 0
+2025-03-18 04:44:36,623 - 📊 Queue Size: 0
+2025-03-18 04:44:46,625 - 📊 Queue Size: 0
+2025-03-18 04:44:56,629 - 📊 Queue Size: 0
+2025-03-18 04:45:06,631 - 📊 Queue Size: 0
+2025-03-18 04:45:16,632 - 📊 Queue Size: 0
+2025-03-18 04:45:26,633 - 📊 Queue Size: 0
+2025-03-18 04:45:36,634 - 📊 Queue Size: 0
+2025-03-18 04:45:46,635 - 📊 Queue Size: 0
+2025-03-18 04:45:56,637 - 📊 Queue Size: 0
+2025-03-18 04:46:06,639 - 📊 Queue Size: 0
+2025-03-18 04:46:16,641 - 📊 Queue Size: 0
+2025-03-18 04:46:26,643 - 📊 Queue Size: 0
+2025-03-18 04:46:36,653 - 📊 Queue Size: 0
+2025-03-18 04:46:46,656 - 📊 Queue Size: 0
+2025-03-18 04:46:56,657 - 📊 Queue Size: 0
+2025-03-18 04:47:06,658 - 📊 Queue Size: 0
+2025-03-18 04:47:16,663 - 📊 Queue Size: 0
+2025-03-18 04:47:26,678 - 📊 Queue Size: 0
+2025-03-18 04:47:36,680 - 📊 Queue Size: 0
+2025-03-18 04:47:46,686 - 📊 Queue Size: 0
+2025-03-18 04:47:56,687 - 📊 Queue Size: 0
+2025-03-18 04:50:27,549 - 📊 Queue Size: 0
+2025-03-18 04:50:37,550 - 📊 Queue Size: 0
+2025-03-18 04:50:47,551 - 📊 Queue Size: 0
+2025-03-18 04:50:57,558 - 📊 Queue Size: 0
+2025-03-18 04:51:03,937 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:04,310 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:04,361 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:04,718 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:04,719 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:05,086 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:05,087 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:05,452 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:05,453 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:05,816 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:05,843 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:06,204 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:06,231 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:06,589 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:06,589 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:06,954 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:06,955 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:07,316 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:07,317 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:07,676 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:07,703 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:08,069 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:08,070 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:08,432 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:08,475 - 📊 Queue Size: 4
+2025-03-18 04:51:08,483 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:08,845 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:08,846 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:09,202 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:09,202 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:09,566 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:09,566 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:09,928 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:09,957 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:10,316 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:10,317 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:10,676 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:10,677 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:11,041 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:11,042 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:11,406 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:11,407 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:11,771 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:11,772 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:12,144 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:12,144 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:12,514 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:12,515 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:12,877 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:12,878 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:13,444 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:13,444 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:13,808 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:13,809 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:14,169 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:14,170 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:14,529 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:14,556 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:14,919 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:14,947 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:15,361 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:15,361 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:15,769 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:15,770 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:16,131 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:16,132 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:16,500 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:16,526 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:16,892 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:16,918 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:17,284 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:17,285 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:17,698 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:17,724 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:18,089 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:18,090 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:18,459 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:18,487 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:18,846 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:18,847 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:19,209 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:19,210 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:19,574 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:19,575 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:19,932 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:19,933 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:20,295 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:20,296 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:20,661 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:20,662 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:21,019 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:21,020 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:21,381 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:21,382 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:21,741 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:21,770 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:22,135 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:22,136 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:22,496 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:22,497 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:22,913 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:22,914 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:23,275 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:23,293 - 📊 Queue Size: 6
+2025-03-18 04:51:23,303 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:23,662 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:23,662 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:24,075 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:24,076 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:24,435 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:24,436 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:24,798 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:24,798 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:25,162 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:25,163 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:25,575 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:25,604 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:26,004 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:26,004 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:26,365 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:26,366 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:26,727 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:26,728 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:27,088 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:27,089 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:27,446 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:27,446 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:27,807 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:27,808 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:28,165 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:28,166 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:28,522 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:28,523 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:28,886 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:28,887 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:29,247 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:29,248 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:29,608 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:29,608 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:29,967 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:29,967 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:30,333 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:30,333 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:30,693 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:30,693 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:31,052 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:31,068 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:31,435 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:31,436 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:31,803 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:31,804 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:32,167 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:32,167 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:32,530 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:32,531 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:32,894 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:32,894 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:33,250 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:33,251 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:33,621 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:33,622 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:33,983 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:33,984 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:34,375 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:34,375 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:34,732 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:34,733 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:35,100 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:35,101 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:35,509 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:35,509 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:35,872 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:35,873 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:36,235 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:36,236 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:36,596 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:36,597 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:36,968 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:36,969 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:37,334 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:37,335 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:37,695 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:37,695 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:38,058 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:38,059 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:38,422 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:38,423 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:38,785 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:38,786 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:39,159 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:39,160 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:39,518 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:39,519 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:39,882 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:39,883 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:40,293 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:40,294 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:40,650 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:40,651 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:41,010 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:41,011 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:41,369 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:41,404 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:41,770 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:41,770 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:42,135 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:42,136 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:42,538 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:42,539 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:42,898 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:42,899 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:43,257 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:43,258 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:43,626 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:43,627 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:43,990 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:43,991 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:44,354 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:44,355 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:44,792 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:44,793 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:45,154 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:45,155 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:45,518 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:45,519 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:45,888 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:45,889 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:46,264 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:46,265 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:46,623 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:46,624 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:46,987 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:46,987 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:47,342 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:47,343 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:47,699 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:47,700 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:48,064 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:48,065 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:48,423 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:48,424 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:48,876 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:48,877 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:49,284 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:49,285 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:49,647 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:49,648 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:50,021 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:50,022 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:50,399 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:50,400 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:50,763 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:50,764 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:51,327 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:51,328 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:51,723 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:51,724 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:52,082 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:52,083 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:52,443 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:52,443 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:52,806 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:52,807 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:53,178 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:53,179 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:53,539 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:53,540 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:53,898 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:53,898 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:54,306 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:54,330 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:54,696 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:54,696 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:55,057 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:55,058 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:55,468 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:55,469 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:55,830 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:55,831 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:56,187 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:56,188 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:56,547 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:56,548 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:56,918 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:56,919 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:57,275 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:57,275 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:57,637 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:57,638 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:57,996 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:57,997 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:58,369 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:58,370 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:58,733 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:58,734 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:59,094 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:59,094 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:59,452 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:59,453 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:51:59,818 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:51:59,819 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:52:00,178 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:52:00,179 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:52:00,534 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:52:00,535 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:52:00,894 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:52:00,895 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:52:01,257 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:52:01,258 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:52:01,637 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:52:01,658 - 📊 Queue Size: 27
+2025-03-18 04:52:01,667 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:52:02,039 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:52:02,039 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:52:02,418 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:52:02,419 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:52:02,790 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:52:02,791 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:52:03,152 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:52:03,153 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:52:03,266 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:52:03,267 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:52:03,385 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:52:03,386 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:52:03,489 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:52:03,490 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:52:03,606 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:52:03,607 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:52:03,782 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:52:03,782 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:52:03,896 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:52:03,897 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:52:04,164 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:52:04,165 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:52:04,279 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:52:04,280 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:52:04,386 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:52:04,386 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:52:04,491 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:52:04,492 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:52:04,602 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:52:04,603 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:52:04,711 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:52:04,711 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:52:04,829 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:52:04,830 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:52:04,944 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:52:04,944 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:52:05,048 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:52:05,049 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:52:05,156 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:52:05,157 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:52:05,267 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:52:05,268 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:52:05,375 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:52:05,376 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:52:05,494 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:52:05,494 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:52:05,603 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:52:05,603 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:52:05,718 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:52:05,718 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:52:05,839 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:52:05,840 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:52:05,953 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:52:05,983 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:52:06,093 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:52:06,094 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:52:06,202 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:52:06,203 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:52:06,438 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:52:06,438 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:52:06,545 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:52:06,546 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:52:06,658 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:52:06,658 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:52:06,770 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:52:06,770 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:52:07,023 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:52:07,024 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:52:07,133 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:52:07,134 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:52:07,253 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:52:07,254 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:52:07,372 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:52:07,373 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:52:07,545 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:52:07,546 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:52:07,652 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:52:07,652 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:52:07,764 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:52:07,765 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:52:07,872 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:52:07,873 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:52:08,041 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:52:08,042 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:52:08,191 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:52:08,192 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:52:08,301 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:52:08,301 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:52:08,410 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:52:08,411 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:52:08,521 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:52:08,522 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:52:08,636 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:52:08,636 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:52:08,746 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:52:08,746 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:52:08,857 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:52:08,858 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:52:09,016 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:52:09,045 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:52:09,154 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:52:09,155 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:52:09,269 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:52:09,270 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:52:09,376 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:52:09,377 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:52:09,485 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:52:09,486 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:52:09,598 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:52:09,598 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:52:09,710 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:52:09,710 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:52:09,817 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:52:09,818 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:52:09,930 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:52:09,931 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:52:10,044 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:52:10,045 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:52:10,155 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:52:10,156 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:52:10,261 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:52:10,261 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:52:10,373 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:52:10,373 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:52:10,484 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:52:10,485 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:52:10,598 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:52:10,598 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:52:10,717 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:52:10,717 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:52:10,834 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:52:10,835 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:52:10,946 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:52:10,946 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:52:11,062 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:52:11,063 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:52:11,170 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:52:11,171 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:52:11,398 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:52:11,398 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:52:11,517 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:52:11,539 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:52:11,651 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:52:11,651 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:52:11,764 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:52:11,765 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:52:11,881 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:52:11,882 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:52:11,998 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:52:11,998 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:52:12,117 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:52:12,118 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:52:12,232 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:52:12,233 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:52:12,342 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:52:12,342 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:52:12,453 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:52:12,453 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:52:12,563 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:52:12,564 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:52:12,677 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:52:12,678 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:52:12,784 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:52:12,785 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:52:12,898 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:52:12,899 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:52:13,012 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:52:13,013 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:52:13,123 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:52:13,123 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:52:13,236 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:52:13,237 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:52:13,351 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:52:13,351 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:52:13,462 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:52:13,463 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:52:13,569 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:52:13,570 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:52:13,684 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:52:13,685 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:52:13,794 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:52:13,794 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:52:13,904 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:52:13,905 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:52:14,015 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:52:14,016 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:52:14,127 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:52:14,130 - 📊 Queue Size: 0
+2025-03-18 04:52:14,870 - 🔄 WebSocket disconnected: sent 1011 (internal error) keepalive ping timeout; no close frame received. Reconnecting in 5 seconds...
+2025-03-18 04:52:24,146 - 📊 Queue Size: 0
+2025-03-18 04:52:28,824 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:52:28,934 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:52:34,146 - 📊 Queue Size: 0
+2025-03-18 04:52:41,107 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:52:41,219 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:52:44,147 - 📊 Queue Size: 0
+2025-03-18 04:52:54,149 - 📊 Queue Size: 0
+2025-03-18 04:53:04,160 - 📊 Queue Size: 0
+2025-03-18 04:53:14,161 - 📊 Queue Size: 0
+2025-03-18 04:53:24,168 - 📊 Queue Size: 0
+2025-03-18 04:53:34,169 - 📊 Queue Size: 0
+2025-03-18 04:53:44,170 - 📊 Queue Size: 0
+2025-03-18 04:53:54,171 - 📊 Queue Size: 0
+2025-03-18 04:54:03,793 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:54:04,166 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:54:04,218 - 📊 Queue Size: 0
+2025-03-18 04:54:14,219 - 📊 Queue Size: 0
+2025-03-18 04:54:24,220 - 📊 Queue Size: 0
+2025-03-18 04:54:34,221 - 📊 Queue Size: 0
+2025-03-18 04:54:44,222 - 📊 Queue Size: 0
+2025-03-18 04:54:51,591 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:54:51,956 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:54:54,223 - 📊 Queue Size: 0
+2025-03-18 04:55:04,225 - 📊 Queue Size: 0
+2025-03-18 04:55:04,793 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 04:55:05,164 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 04:55:14,227 - 📊 Queue Size: 0
+2025-03-18 04:55:24,229 - 📊 Queue Size: 0
+2025-03-18 04:55:34,229 - 📊 Queue Size: 0
+2025-03-18 04:55:44,230 - 📊 Queue Size: 0
+2025-03-18 04:55:54,231 - 📊 Queue Size: 0
+2025-03-18 04:56:04,237 - 📊 Queue Size: 0
+2025-03-18 04:56:14,237 - 📊 Queue Size: 0
+2025-03-18 04:56:24,238 - 📊 Queue Size: 0
+2025-03-18 04:56:34,246 - 📊 Queue Size: 0
+2025-03-18 04:56:44,248 - 📊 Queue Size: 0
+2025-03-18 04:56:54,249 - 📊 Queue Size: 0
+2025-03-18 04:57:04,251 - 📊 Queue Size: 0
+2025-03-18 04:57:14,252 - 📊 Queue Size: 0
+2025-03-18 04:57:24,254 - 📊 Queue Size: 0
+2025-03-18 04:57:34,257 - 📊 Queue Size: 0
+2025-03-18 04:57:44,258 - 📊 Queue Size: 0
+2025-03-18 04:57:54,259 - 📊 Queue Size: 0
+2025-03-18 04:58:04,260 - 📊 Queue Size: 0
+2025-03-18 04:58:14,261 - 📊 Queue Size: 0
+2025-03-18 04:58:24,262 - 📊 Queue Size: 0
+2025-03-18 04:58:34,263 - 📊 Queue Size: 0
+2025-03-18 04:58:44,264 - 📊 Queue Size: 0
+2025-03-18 04:58:54,265 - 📊 Queue Size: 0
+2025-03-18 04:59:04,266 - 📊 Queue Size: 0
+2025-03-18 04:59:14,267 - 📊 Queue Size: 0
+2025-03-18 04:59:24,269 - 📊 Queue Size: 0
+2025-03-18 04:59:34,270 - 📊 Queue Size: 0
+2025-03-18 04:59:44,271 - 📊 Queue Size: 0
+2025-03-18 04:59:54,272 - 📊 Queue Size: 0
+2025-03-18 05:00:04,275 - 📊 Queue Size: 0
+2025-03-18 05:00:14,276 - 📊 Queue Size: 0
+2025-03-18 05:00:24,277 - 📊 Queue Size: 0
+2025-03-18 05:00:34,278 - 📊 Queue Size: 0
+2025-03-18 05:00:44,279 - 📊 Queue Size: 0
+2025-03-18 05:00:54,280 - 📊 Queue Size: 0
+2025-03-18 05:01:04,281 - 📊 Queue Size: 0
+2025-03-18 05:01:14,282 - 📊 Queue Size: 0
+2025-03-18 05:01:24,283 - 📊 Queue Size: 0
+2025-03-18 05:01:34,283 - 📊 Queue Size: 0
+2025-03-18 05:01:44,284 - 📊 Queue Size: 0
+2025-03-18 05:01:54,295 - 📊 Queue Size: 0
+2025-03-18 05:02:04,302 - 📊 Queue Size: 0
+2025-03-18 05:02:11,201 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 05:02:11,574 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 05:02:14,303 - 📊 Queue Size: 0
+2025-03-18 05:02:24,311 - 📊 Queue Size: 0
+2025-03-18 05:02:34,312 - 📊 Queue Size: 0
+2025-03-18 05:02:44,313 - 📊 Queue Size: 0
+2025-03-18 05:02:54,314 - 📊 Queue Size: 0
+2025-03-18 05:03:04,314 - 📊 Queue Size: 0
+2025-03-18 05:03:14,316 - 📊 Queue Size: 0
+2025-03-18 05:03:24,323 - 📊 Queue Size: 0
+2025-03-18 05:03:34,323 - 📊 Queue Size: 0
+2025-03-18 05:03:44,325 - 📊 Queue Size: 0
+2025-03-18 05:03:54,326 - 📊 Queue Size: 0
+2025-03-18 05:04:04,326 - 📊 Queue Size: 0
+2025-03-18 05:04:14,327 - 📊 Queue Size: 0
+2025-03-18 05:04:24,329 - 📊 Queue Size: 0
+2025-03-18 05:04:34,330 - 📊 Queue Size: 0
+2025-03-18 05:04:44,331 - 📊 Queue Size: 0
+2025-03-18 05:04:54,333 - 📊 Queue Size: 0
+2025-03-18 05:05:06,364 - 📊 Queue Size: 0
+2025-03-18 05:05:16,374 - 📊 Queue Size: 0
+2025-03-18 05:05:26,375 - 📊 Queue Size: 0
+2025-03-18 05:05:36,377 - 📊 Queue Size: 0
+2025-03-18 05:05:46,377 - 📊 Queue Size: 0
+2025-03-18 05:05:56,379 - 📊 Queue Size: 0
+2025-03-18 05:06:06,383 - 📊 Queue Size: 0
+2025-03-18 05:06:16,384 - 📊 Queue Size: 0
+2025-03-18 05:06:26,385 - 📊 Queue Size: 0
+2025-03-18 05:06:36,387 - 📊 Queue Size: 0
+2025-03-18 05:06:46,387 - 📊 Queue Size: 0
+2025-03-18 05:06:56,389 - 📊 Queue Size: 0
+2025-03-18 05:07:06,390 - 📊 Queue Size: 0
+2025-03-18 05:07:16,393 - 📊 Queue Size: 0
+2025-03-18 05:07:26,394 - 📊 Queue Size: 0
+2025-03-18 05:07:36,395 - 📊 Queue Size: 0
+2025-03-18 05:07:46,397 - 📊 Queue Size: 0
+2025-03-18 05:07:56,399 - 📊 Queue Size: 0
+2025-03-18 05:08:06,400 - 📊 Queue Size: 0
+2025-03-18 05:08:16,401 - 📊 Queue Size: 0
+2025-03-18 05:08:26,402 - 📊 Queue Size: 0
+2025-03-18 05:08:36,404 - 📊 Queue Size: 0
+2025-03-18 05:08:46,409 - 📊 Queue Size: 0
+2025-03-18 05:08:56,410 - 📊 Queue Size: 0
+2025-03-18 05:09:06,421 - 📊 Queue Size: 0
+2025-03-18 05:09:16,424 - 📊 Queue Size: 0
+2025-03-18 05:09:26,425 - 📊 Queue Size: 0
+2025-03-18 05:09:36,426 - 📊 Queue Size: 0
+2025-03-18 05:09:46,427 - 📊 Queue Size: 0
+2025-03-18 05:09:56,428 - 📊 Queue Size: 0
+2025-03-18 05:10:07,737 - 📊 Queue Size: 0
+2025-03-18 05:10:12,090 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 05:10:12,462 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 05:10:12,469 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 05:10:12,838 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 05:10:12,839 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 05:10:13,203 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 05:10:13,207 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 05:10:13,575 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 05:10:13,662 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 05:10:14,019 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 05:10:14,042 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 05:10:14,408 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 05:10:14,409 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 05:10:14,766 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 05:10:14,767 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 05:10:15,131 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 05:10:15,131 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 05:10:15,492 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 05:10:15,518 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 05:10:15,876 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 05:10:15,877 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 05:10:16,243 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 05:10:16,244 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 05:10:16,789 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 05:10:16,790 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 05:10:17,202 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 05:10:17,253 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 05:10:17,615 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 05:10:17,616 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 05:10:17,986 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 05:10:18,021 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 05:10:18,385 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 05:10:18,386 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 05:10:18,755 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 05:10:18,756 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 05:10:19,115 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 05:10:19,116 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 05:10:19,483 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 05:10:19,512 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 05:10:19,875 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 05:10:19,876 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 05:10:20,237 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 05:10:20,238 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 05:10:20,597 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 05:10:20,598 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 05:10:20,961 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 05:10:20,962 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 05:10:21,328 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 05:10:21,329 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 05:10:21,695 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 05:10:21,696 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 05:10:22,060 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 05:10:22,061 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 05:10:22,424 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 05:10:22,425 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 05:10:22,840 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 05:10:22,841 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 05:10:23,198 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 05:10:23,215 - 📊 Queue Size: 0
+2025-03-18 05:10:23,250 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 05:10:23,615 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 05:10:23,616 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 05:10:23,978 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 05:10:23,979 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 05:10:24,343 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 05:10:24,344 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 05:10:24,707 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 05:10:24,708 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 05:10:25,079 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 05:10:25,127 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 05:10:25,505 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 05:10:25,506 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 05:10:25,869 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 05:10:25,895 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 05:10:26,259 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 05:10:26,260 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 05:10:26,623 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 05:10:26,624 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 05:10:26,993 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 05:10:26,994 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 05:10:27,358 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 05:10:27,359 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 05:10:27,731 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 05:10:27,732 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 05:10:28,341 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 05:10:28,342 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 05:10:28,701 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 05:10:28,702 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 05:10:29,074 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 05:10:29,075 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 05:10:29,440 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 05:10:29,441 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 05:10:29,799 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 05:10:29,826 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 05:10:30,189 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 05:10:30,190 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 05:10:30,549 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 05:10:30,550 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 05:10:30,988 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 05:10:30,989 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 05:10:31,402 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 05:10:31,403 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 05:10:31,763 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 05:10:31,764 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 05:10:32,133 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 05:10:32,134 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 05:10:32,499 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 05:10:32,500 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 05:10:32,859 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 05:10:32,888 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 05:10:33,260 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 05:10:33,261 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 05:10:33,633 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 05:10:33,634 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 05:10:33,999 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 05:10:34,000 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 05:10:34,364 - ✅ Alert sent to Better Stack for prefix 212.48.73.0/24
+2025-03-18 05:10:34,365 - 🚨 BGP HIJACK ALERT! Prefix: 212.48.73.0/24 Expected ASN: 20773, but got: 20738
+2025-03-18 05:10:34,680 - Task was destroyed but it is pending!
+task: <Task cancelling name='Task-2' coro=<listen() running at /home/dco/telemetry/bgp_hijack_detector.py:117> wait_for=<Future pending cb=[shield.<locals>._outer_done_callback() at /usr/lib/python3.12/asyncio/tasks.py:922, Task.task_wakeup()]> cb=[gather.<locals>._done_callback() at /usr/lib/python3.12/asyncio/tasks.py:767, gather.<locals>._done_callback() at /usr/lib/python3.12/asyncio/tasks.py:767]>
+2025-03-18 05:10:34,680 - Task exception was never retrieved
+future: <Task finished name='Task-1' coro=<main() done, defined at /home/dco/telemetry/bgp_hijack_detector.py:180> exception=KeyboardInterrupt()>
+Traceback (most recent call last):
+  File "/home/dco/telemetry/bgp_hijack_detector.py", line 190, in <module>
+    asyncio.run(main())
+  File "/usr/lib/python3.12/asyncio/runners.py", line 193, in run
+    with Runner(debug=debug, loop_factory=loop_factory) as runner:
+  File "/usr/lib/python3.12/asyncio/runners.py", line 62, in __exit__
+    self.close()
+  File "/usr/lib/python3.12/asyncio/runners.py", line 70, in close
+    _cancel_all_tasks(loop)
+  File "/usr/lib/python3.12/asyncio/runners.py", line 205, in _cancel_all_tasks
+    loop.run_until_complete(tasks.gather(*to_cancel, return_exceptions=True))
+  File "/usr/lib/python3.12/asyncio/base_events.py", line 674, in run_until_complete
+    self.run_forever()
+  File "/usr/lib/python3.12/asyncio/base_events.py", line 641, in run_forever
+    self._run_once()
+  File "/usr/lib/python3.12/asyncio/base_events.py", line 1987, in _run_once
+    handle._run()
+  File "/usr/lib/python3.12/asyncio/events.py", line 88, in _run
+    self._context.run(self._callback, *self._args)
+  File "/home/dco/telemetry/bgp_hijack_detector.py", line 187, in main
+    await asyncio.gather(listener_task, processor_task, monitor_task)
+  File "/usr/lib/python3.12/asyncio/runners.py", line 194, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/asyncio/runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/asyncio/base_events.py", line 674, in run_until_complete
+    self.run_forever()
+  File "/usr/lib/python3.12/asyncio/base_events.py", line 641, in run_forever
+    self._run_once()
+  File "/usr/lib/python3.12/asyncio/base_events.py", line 1987, in _run_once
+    handle._run()
+  File "/usr/lib/python3.12/asyncio/events.py", line 88, in _run
+    self._context.run(self._callback, *self._args)
+  File "/home/dco/telemetry/bgp_hijack_detector.py", line 167, in process_messages
+    send_alerts(alert_id, prefix, expected_asn, origin_asn, as_path, webhook_url, email_settings)
+  File "/home/dco/telemetry/bgp_hijack_detector.py", line 102, in send_alerts
+    response = requests.post(webhook_url, json=payload)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/dco/telemetry/myenv/lib/python3.12/site-packages/requests/api.py", line 115, in post
+    return request("post", url, data=data, json=json, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/dco/telemetry/myenv/lib/python3.12/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/dco/telemetry/myenv/lib/python3.12/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/dco/telemetry/myenv/lib/python3.12/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/dco/telemetry/myenv/lib/python3.12/site-packages/requests/adapters.py", line 667, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "/home/dco/telemetry/myenv/lib/python3.12/site-packages/urllib3/connectionpool.py", line 773, in urlopen
+    self._prepare_proxy(conn)
+  File "/home/dco/telemetry/myenv/lib/python3.12/site-packages/urllib3/connectionpool.py", line 1042, in _prepare_proxy
+    conn.connect()
+  File "/home/dco/telemetry/myenv/lib/python3.12/site-packages/urllib3/connection.py", line 721, in connect
+    self._tunnel()
+  File "/usr/lib/python3.12/http/client.py", line 969, in _tunnel
+    (version, code, message) = response._read_status()
+                               ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/http/client.py", line 292, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/socket.py", line 707, in readinto
+    return self._sock.recv_into(b)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/asyncio/runners.py", line 157, in _on_sigint
+    raise KeyboardInterrupt()
+KeyboardInterrupt
