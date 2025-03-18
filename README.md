@@ -32,7 +32,7 @@ Webhook URL for Better Stack alerts.
 Email settings (SMTP server, sender, recipients, etc.).
 
 Example config.yaml
---------------------------
+
 prefixes:
   "31.170.120.0/21": 20738
   "46.32.224.0/19": 20738
@@ -54,6 +54,8 @@ email_settings:
   To start real-time monitoring:(select correct interpreter path)
 
   python bgp_hijack_detector.py
+
+if you need to run this as a background process, better to configure a seperate systemd service for this.
 
 This will:
 
